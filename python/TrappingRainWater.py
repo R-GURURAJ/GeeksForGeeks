@@ -1,3 +1,10 @@
+"""
+Input:
+N = 6
+arr[] = {3,0,0,2,0,4}
+Output:
+10
+"""
 class Solution:
     def trappingWater(self, arr,n):
         s=0
